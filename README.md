@@ -12,6 +12,11 @@ Phil Persson
 
 
 To build: npm run export
+
 To execute: npm run dev
+
 To view page: http://localhost:3000/
+
 To make changes: http://localhost:3000/admin/index.html
+
+
