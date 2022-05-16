@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: awesome-kitties
+  repo: pbpersson/awesome-kitties
   branch: master # Branch to update (optional; defaults to master)
 media_folder: public/img
 public_folder: img
